@@ -1,0 +1,16 @@
+
+
+https://www.javaguides.net/2020/06/thymeleaf-example-with-spring-boot.html
+
+https://education.launchcode.org/java-web-development/chapters/thymeleaf-views/template-forms.html
+
+https://howtodoinjava.com/spring-mvc/spring-mvc-hello-world-example/
+
+https://www.tutorialspoint.com/spring/spring_mvc_hello_world_example.htm
+
+https://spring.io/guides/gs/serving-web-content/
+
+https://www.studytonight.com/spring-framework/spring-security-basic-example
+
+https://www.codejava.net/frameworks/spring-boot/spring-boot-crud-example-with-spring-mvc-spring-data-jpa-thymeleaf-hibernate-mysql
+
